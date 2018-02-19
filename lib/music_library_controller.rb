@@ -95,6 +95,8 @@ class MusicLibraryController
   def play_song
     puts "Which song number would you like to play?"
     input = gets.strip
+    
+    list_songs.detect{|song| }
   end
   
   
