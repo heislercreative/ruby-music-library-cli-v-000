@@ -43,7 +43,7 @@ class MusicLibraryController
   end
   
   def list_songs
-    puts Songs.all.sort{|a, b| a <=> b}
+    puts Song.all.sort{|a, b| a <=> b}
   end
   
   def list_artists
