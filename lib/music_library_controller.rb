@@ -10,7 +10,8 @@ class MusicLibraryController
     while input != "exit"
       instructions
     
-    input = gets.strip
+      input = gets.strip
+    end
   end
   
   def instructions
