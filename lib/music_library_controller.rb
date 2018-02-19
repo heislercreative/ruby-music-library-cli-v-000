@@ -52,6 +52,7 @@ class MusicLibraryController
     end
   end
   
+  list_songs
   binding.pry
   
   def list_artists
