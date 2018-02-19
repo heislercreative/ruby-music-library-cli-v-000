@@ -6,7 +6,7 @@ class MusicLibraryController
   
   def call
     instructions
-    gets.strip
+    input = gets.strip
   end
   
   def instructions
