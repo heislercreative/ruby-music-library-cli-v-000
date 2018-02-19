@@ -5,7 +5,7 @@ class MusicLibraryController
   end
   
   def call
-    instructions  
+    instructions
   end
   
   def instructions
