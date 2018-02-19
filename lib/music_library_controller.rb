@@ -12,7 +12,9 @@ class MusicLibraryController
       instructions
       input = gets.strip
       
-      case 
+      case input
+        
+      end
     end
   end
   
