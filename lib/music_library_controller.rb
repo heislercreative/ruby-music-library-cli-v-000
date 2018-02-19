@@ -11,6 +11,8 @@ class MusicLibraryController
     while input != "exit"
       instructions
       input = gets.strip
+      
+      
     end
   end
   
